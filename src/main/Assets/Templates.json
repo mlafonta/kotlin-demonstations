@@ -1,0 +1,16 @@
+[ {
+  "id" : 1,
+  "text" : "{salutation}, {firstName}, and welcome to {company}! Room {roomNumber} is now ready for you. Enjoy your stay!"
+}, {
+  "id" : 2,
+  "text" : "{firstName}"
+}, {
+  "id" : 3,
+  "text" : "{salutation}"
+}, {
+  "id" : 4,
+  "text" : "{company}"
+}, {
+  "id" : 5,
+  "text" : "{company}"
+} ]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "firstName": "Test 1",
+    "lastName": "Guest 1",
+    "reservation": {
+      "roomNumber": 1,
+      "startTimestamp": 0,
+      "endTimestamp": 1
+    }
+  },
+  {
+    "id": 2,
+    "firstName": "Test 2",
+    "lastName": "Guest 2",
+    "reservation": {
+      "roomNumber": 2,
+      "startTimestamp": 0,
+      "endTimestamp": 1
+    }
+  }
+]

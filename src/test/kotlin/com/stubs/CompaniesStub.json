@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "company": "Test Hotel 1",
+    "city": "Test City 1",
+    "timezone": "US/Pacific"
+  },
+  {
+    "id": 2,
+    "company": "Test Hotel 2",
+    "city": "Test City 2",
+    "timezone": "US/Central"
+  }
+]
